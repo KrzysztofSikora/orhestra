@@ -1,0 +1,9 @@
+.pv-container {
+  overflow: hidden;
+}
+.pv-container .pv-block {
+  will-change: transform;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
